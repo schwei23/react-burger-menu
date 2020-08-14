@@ -18,7 +18,7 @@ const styles = {
 
   outerContainer() {
     return {
-      perspective: '1500px'
+      perspective: '5000px'
     };
   }
 };
